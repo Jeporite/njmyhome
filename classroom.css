@@ -1,0 +1,153 @@
+hr {
+  border-style: solid;
+  width: 600px;
+  color: #9A9A9B;
+  margin-bottom: 30px;
+/*   margin-left: 0; */
+}
+
+.blurb {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h6 {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: xx-large;
+  padding-top: 15px;
+  padding-bottom: 30px;  
+  margin: 0;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+h4 {
+  font-size: x-large;
+  font-family: 'Lora', serif;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+h3 {
+   font-family: 'Lora', serif;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+
+p.no {
+  margin-bottom: 0;
+}
+
+h4.special {
+  margin-top: 10px;
+}
+
+h4.superspecial {
+  margin-top: 20px;
+}
+
+#all {
+  display: inline-block;
+  position: relative;
+  margin: 0 auto;
+  width: 1300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #9A9A9B;
+  font-family: 'Open Sans', sans-serif;
+}
+
+div.inflow {
+  float: left; 
+  position: relative;
+}
+
+div.positioner {
+  position: absolute;
+  left: 0;
+}
+
+div.fixed {
+  width: 400px;
+  height: 100%; 
+  position: fixed; 
+  top: 1%;
+}
+
+#content {
+  display: inline-block; 
+  text-align: left;
+  float: right;
+  width: 870px;
+  margin: 0 auto;
+  margin-left: 400px;
+}
+
+
+#fortheclassroom ul {
+  text-align: left;
+  list-style-type: circle;
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align:center;
+}
+
+a {
+    text-decoration:none;
+    color: #9A9A9B;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 600;
+}
+
+a:hover, a:active {
+  color: #3d3d3d;
+}
+
+#navbar {
+  padding-top: 25px;
+  width: 100%;
+}
+
+#navbar li {
+    font-family: 'Open Sans', sans-serif;    
+    display: inline-block;
+    list-style: none;
+    margin-left:25px;
+    margin-right:25px;
+}
+
+#fortheclassroom {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  padding: 30px;
+}
+
+
+p {
+  width: 825px;
+  font-family: 'Open Sans', sans-serif;
+  display: inline-block;
+  color: #9A9A9B;
+  font-size: medium;
+/*   margin-top: 15px;
+  margin-bottom: 15px; */
+}
+
+#container {
+  width: 830px;
+}
+
+#footer p{
+  margin-top: 40px;
+  margin: auto;
+  text-align: center;
+  font-size: small;
+}

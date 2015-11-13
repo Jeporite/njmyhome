@@ -1,0 +1,172 @@
+hr {
+  border-style: solid;
+/*   transform: scaleY(0.5); */
+  width: 80%;
+  color: #9A9A9B;
+}
+
+h4 {
+  font-size: x-large;
+  font-family: 'Lora', serif;
+  margin: 0;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  color: #9A9A9B;
+}
+
+h3 {
+  font-size: medium;
+  font-family: 'Lora', serif;
+  margin: 0;
+  padding: 0;
+  color: #9A9A9B;
+}
+
+h4.h4 {
+  padding-bottom: 20px;
+  padding-top: 0;
+}
+
+#books {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#songdwn {
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 20px;
+}
+
+.sheetmusic h4{
+  padding-top: 30px;
+}
+
+h5 {
+  font-size: medium;
+  font-family: 'Lora', serif;
+  margin: 0;
+/*   padding-bottom: 20px; */
+  color: #9A9A9B;
+}
+
+.video {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#endhr {
+  width: 80%;
+  margin-bottom: 30px;
+  margin-top: 30px
+}
+
+#all {
+  display: inline-block;
+  position: relative;
+  margin: 0 auto;
+  width: 1300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.inflow {
+  float: left; 
+  position: relative;
+}
+
+div.positioner {
+  position: absolute;
+  left: 0;
+}
+
+div.fixed {
+  width: 400px;
+  height: 100%; 
+  position: fixed; 
+  top: 1%;
+}
+
+#content {
+  display: inline-block; 
+  text-align: center;
+  float: right;
+  width: 870px;
+  margin: 0 auto;
+  margin-left: 400px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align:center;
+}
+
+a {
+    text-decoration:none;
+    color: #9A9A9B;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 600;
+}
+
+a:hover, a:active {
+  color: #3d3d3d;
+}
+
+#navbar {
+  padding-top: 25px;
+  width: 100%;
+}
+
+#sheetmusic {
+    list-style-type: none;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+}
+
+#sheetmusic a {
+  font-weight: 400;
+}
+
+#sheetmusic li {
+  display: inline-block;
+  margin-left:25px;
+  margin-right:25px;
+}
+
+#sheetmusic ul {
+text-align: center;
+}
+
+li {
+    font-family: 'Open Sans', sans-serif;    
+    display: inline-block;
+    list-style: none;
+    margin-left:25px;
+    margin-right:25px;
+}
+
+p {
+  width: 825px;
+  font-family: 'Open Sans', sans-serif;    
+  display: inline-block;
+  color: #9A9A9B;
+  margin: 3px;
+}
+
+#container {
+  width: 830px;
+}
+
+
+#footer {
+  margin-top: 40px;
+  padding-top: 25px;
+  margin: auto;
+  text-align: center;
+  font-size: small;
+}
